@@ -1,4 +1,23 @@
-### David Alain do Nascimento
+# David Alain do Nascimento
+
+### Lecturer at Federal Institute of Pernambuco - Garanhuns - Brazil.
+### PhD Candidate at Federal University of Pernambuco - Brazil.
+#
+### Bachelors on Computer Engineering
+### Masters on Systems Engineering
+#
+### Research and Development Interests:
+- Networking
+  - Network Calculus - Modeling and Analysis
+  - Time-Sensitive Networing
+  - Deterministic Networking
+- Cyber-security
+- Distributed Systems and High-Availabiity
+- Linux
+- Embedded Systems
+- IoT
+
+
 
 <!--
 **davidalain/davidalain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
