@@ -1,7 +1,7 @@
 # David Alain do Nascimento
 
-### Lecturer at Federal Institute of Pernambuco - Garanhuns - Brazil.
-### PhD Candidate at Federal University of Pernambuco - Brazil.
+### Lecturer at Federal Institute of Pernambuco (IFPE) - Garanhuns - Brazil.
+### PhD Candidate at Federal University of Pernambuco (UFPE) - Brazil.
 #
 ### Bachelors on Computer Engineering
 ### Masters on Systems Engineering
