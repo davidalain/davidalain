@@ -1,7 +1,7 @@
 # David Alain do Nascimento
 
 ### Senior Lecturer at Federal Institute of Pernambuco (IFPE) - Garanhuns - Brazil.
-### PhD Candidate at Federal University of Pernambuco (UFPE) - Brazil.
+### PhD Candidate at Centro de Informática (CIn) / Universidade Federal of Pernambuco (UFPE) - Brazil.
 #
 ### Bachelors on Computer Engineering
 ### Masters on Systems Engineering
@@ -9,7 +9,7 @@
 ### Research and Development Interests:
 - Networking
   - Network Calculus - Modeling and Analysis
-  - Time-Sensitive Networing
+  - Time-Sensitive Networing (TSN)
   - Deterministic Networking
 - Cyber-security
 - Distributed Systems and High-Availabiity
