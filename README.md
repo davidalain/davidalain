@@ -1,12 +1,11 @@
-# David Alain do Nascimento
+# David Alain do Nascimento, PhD
 
 ###  Assistant Professor at Instituto Federal de Pernambuco (IFPE) - Campus Garanhuns - Brazil.
-### PhD at Centro de Informática (CIn) / Universidade Federal of Pernambuco (UFPE) - Brazil.
 #
-### Bachelors on Computer Engineering
-### Masters on Systems Engineering
-#
-### Research and Development Interests:
+#### Bachelors on Computer Engineering at Universidade de Pernabuco (UPE) - Brazil.
+#### Masters on Systems Engineering at Universidade de Pernabuco (UPE) - Brazil.
+#### PhD on Computer Science at Centro de Informática (CIn) / Universidade Federal of Pernambuco (UFPE) - Brazil.
+#### Research and Development Interests:
 - Networking
   - Network Calculus - Modeling and Analysis
   - Time-Sensitive Networing (TSN)
